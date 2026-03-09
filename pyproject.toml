@@ -5,5 +5,12 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
-    "mcp>=1.25.0",
+    "aiosqlite>=0.22.1",
+    "fastmcp>=2.14.3",
+    "mcp[cli]>=1.25.0",
+    "numpy>=2.4.2",
+    "openai>=2.26.0",
+    "pydantic>=2.12.5",
+    "python-dotenv>=1.2.1",
+    "scikit-learn>=1.8.0",
 ]
