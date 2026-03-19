@@ -7,6 +7,8 @@ Built to plug into a multi-tenant RAG chatbot in production. When the chatbot
 gives a low-confidence answer, it logs the question here. Run pattern analysis
 periodically to find out what docs are missing.
 
+[Build an MCP Server That Finds Your RAG Chatbot's Blind Spots](https://dev.to/hamurda/build-an-mcp-server-that-finds-your-rag-chatbots-blind-spots-3hb1)
+
 ## How It Works
 
 ```
